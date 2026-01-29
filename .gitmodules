@@ -1,3 +1,4 @@
 [submodule "minecraft-data"]
 	path = minecraft-data
 	url = https://github.com/barkeser2002/minecraft-data.git
+	branch = master
