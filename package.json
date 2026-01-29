@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-data",
+  "name": "minecraft-data-barkeser2002",
   "version": "3.103.0",
   "description": "Provide easy access to minecraft data in node.js",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:PrismarineJS/node-minecraft-data.git"
+    "url": "git@github.com:barkeser2002/minecraft-data.git"
   },
   "keywords": [
     "minecraft",
@@ -30,7 +30,7 @@
   "author": "Romain Beaumont <romain.rom1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PrismarineJS/node-minecraft-data/issues"
+    "url": "https://github.com/barkeser2002/minecraft-data/issues"
   },
   "devDependencies": {
     "minecraft-data": ".",
